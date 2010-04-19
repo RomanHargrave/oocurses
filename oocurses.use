@@ -1,0 +1,5 @@
+Name: oocurses
+Description: Bindings to the ncurses terminal UI library
+Libs: -lncurses
+Includes: ncurses.h
+SourcePath: .
